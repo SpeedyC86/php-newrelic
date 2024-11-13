@@ -1,5 +1,5 @@
 {
-    "name": "SpeedyC86/php-newrelic",
+    "name": "speedyc86/php-newrelic",
     "description": "PHP Library for New Relic Agent",
     "keywords": ["newrelic", "new relic", "monitoring", "performance", "apm"],
     "type": "library",
