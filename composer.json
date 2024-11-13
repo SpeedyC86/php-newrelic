@@ -1,21 +1,21 @@
 {
-    "name": "id5/php-newrelic",
+    "name": "SpeedyC86/php-newrelic",
     "description": "PHP Library for New Relic Agent",
     "keywords": ["newrelic", "new relic", "monitoring", "performance", "apm"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "ID5",
-            "email": "tecnologia@id5.com.br",
-            "homepage": "https://www.timmy.pro",
+            "name": "SpeedyC86",
+            "email": "constantin.cosuleanu@westwing.de",
+            "homepage": "https://westwing.de",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "tecnologia@id5.com.br",
-        "issues": "https://github.com/id5/php-newrelic/issues",
-        "source": "https://github.com/id5/php-newrelic"
+        "email": "constantin.cosuleanu@westwing.de",
+        "issues": "https://github.com/SpeedyC86/php-newrelic/issues",
+        "source": "https://github.com/SpeedyC86/php-newrelic"
     },
     "autoload": {
         "psr-4": {
